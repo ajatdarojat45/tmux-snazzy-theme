@@ -1,6 +1,6 @@
 #!/bin/bash
-onedark_black="#282c34"
-onedark_blue="#61afef"
+onedark_black="#1d2031"
+onedark_blue="#72a2ed"
 #onedark_yellow="#e5c07b"
 onedark_yellow="#f3f99d"
 #onedark_red="#e06c75"
