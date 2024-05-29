@@ -9,8 +9,8 @@ onedark_white="#aab2bf"
 #onedark_green="#98c379"
 #onedark_green="#57c7ff"
 onedark_green="#72a2ed"
-#onedark_visual_grey="#3e4452"
-onedark_visual_grey="#1d2031"
+onedark_visual_grey="#3e4452"
+#onedark_visual_grey="#1d2031"
 onedark_comment_grey="#5c6370"
 
 get() {
